@@ -1,6 +1,8 @@
 # Software Designer/Developer
 
-Passionate about Arts and Technologies. Interested by MicroServices Architecture, DevOps & Cloud technologies, and macOS, iOS & Systems software development and design.
+Passionate about Arts and Technologies.
+
+Interested by MicroServices Architecture, DevOps & Cloud technologies, and macOS, iOS & Systems software development and design.
 
 <!--
 **AtlasRW/AtlasRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
