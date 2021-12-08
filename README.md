@@ -1,12 +1,6 @@
 # Concepteur / Développeur d'Applications
 
-Passionné d’Art et de Technologies.
-
-Tout particulièrement intéressé par :
-- Architecture MicroServices
-- Technologies DevOps & Cloud
-- Application macOS & iOS
-- Application Systèmes
+Passionate about Arts and Technologies. Interested by MicroServices Architecture, DevOps & Cloud technologies, and macOS, iOS & Systems software development and design.
 
 <!--
 **AtlasRW/AtlasRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
