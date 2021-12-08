@@ -1,6 +1,6 @@
 # Software Designer/Developer
 
-Passionate about Arts and Technologies.
+Hacker. Skater. Designer. Passionate about Arts and Technologies.
 
 Interested by MicroServices Architecture, DevOps & Cloud technologies, and macOS, iOS & Systems software development and design.
 
