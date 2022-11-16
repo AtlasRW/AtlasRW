@@ -1,10 +1,8 @@
 # Software Designer / Engineer
 
-Hacker. Skater. Designer.
+### Hacker. Rider. Designer.
 
-Passionate about Arts and Technologies.
-
-Interested by
+Passionate about Arts & Technologies, interested by
 - Web
 - Cloud
 - Systems
