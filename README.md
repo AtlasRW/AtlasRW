@@ -4,7 +4,11 @@ Hacker. Skater. Designer.
 
 Passionate about Arts and Technologies.
 
-Interested by MicroServices Architecture, DevOps & Cloud technologies, and macOS, iOS & Systems software development and design.
+Interested by :
+- Systems software
+- Cloud technologies
+- MicroServices architecture
+- macOS, iOS, watchOS software
 
 <!--
 **AtlasRW/AtlasRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
