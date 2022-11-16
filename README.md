@@ -1,4 +1,4 @@
-# Software Designer/Engineer
+# Software Designer / Engineer
 
 Hacker. Skater. Designer. Passionate about Arts and Technologies.
 
