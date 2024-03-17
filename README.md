@@ -1,7 +1,5 @@
 ![](./separator.svg)
 
-<br>
-
 ![RAPHAËL CIMA, SOFTWARE ARCHITECT](./title.svg)
 
 ![](./separator.svg)
@@ -11,96 +9,7 @@
 [![Twitter Profile Badge](https://img.shields.io/badge/@rw__atlas-%231DA1F2AA?style=flat&logo=twitter&logoColor=FFFFFF)](https://twitter.com/rw_atlas)
 [![LinkedIn Profile Badge](https://img.shields.io/badge/atlasrw-%230077B5AA?style=flat&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/atlasrw)
 
-<!-- <div style="
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    min-width: 200px;
-    max-width: 465px;
-    display: flex;
-    /* padding: 0.5em 0 0 0; */
-    gap: 1.5em;
-">
-    <div style="
-        justify-content: center;
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-        display: flex;
-    ">
-        <div style="
-            letter-spacing: 0.2em;
-            text-align: center;
-            font-weight: 600;
-            font-size: 2em;
-        ">
-            RAPHAËL CIMA
-        </div>
-        <div style="
-            letter-spacing: 0.58em;
-            text-align: center;
-            font-weight: 300;
-            font-size: 0.9em;
-        ">
-            SOFTWARE ARCHITECT
-        </div>
-    </div>
-    <div style="
-        justify-content: center;
-        flex-wrap: wrap;
-        display: flex;
-        width: 100%;
-        gap: 0.2em;
-    ">
-        <a               
-            href="https://github.com/AtlasRW"
-            target="_blank"
-        >
-            <img
-                src="https://img.shields.io/badge/AtlasRW-%23333333AA?style=flat&logo=github&logoColor=FFFFFF"
-                alt="GitHub Profile Badge"
-            >
-        </a>
-        <a               
-            href="https://www.instagram.com/rw_atlas"
-            target="_blank"
-        >
-            <img
-                src="https://img.shields.io/badge/rw__atlas-%23F56040AA?style=flat&logo=instagram&logoColor=FFFFFF"
-                alt="Instagram Profile Badge"
-            >
-        </a>
-        <a               
-            href="https://twitter.com/rw_atlas"
-            target="_blank"
-        >
-            <img
-                src="https://img.shields.io/badge/@rw__atlas-%231DA1F2AA?style=flat&logo=twitter&logoColor=FFFFFF"
-                alt="Twitter Profile Badge"
-            >
-        </a>
-        <a               
-            href="https://www.linkedin.com/in/atlasrw"
-            target="_blank"
-        >
-            <img
-                src="https://img.shields.io/badge/atlasrw-%230077B5AA?style=flat&logo=linkedin&logoColor=FFFFFF"
-                alt="LinkedIn Profile Badge"
-            >
-        </a>
-    </div>
-</div> -->
-
 Passionate about Arts & Technologies.
-
-<!-- <hr style="
-    background: linear-gradient(30deg, #E96443AA, #904E95AA);
-    border-radius: 20px;
-    max-width: 465px;
-    margin: 1.5em 0;
-    height: 3px;
-    width: 100%;
-"> -->
 
 Currently working on :
 
@@ -117,15 +26,6 @@ Also actively interested by :
 ![Apple Platforms](https://img.shields.io/badge/%F0%9F%94%A8-Apple%20Platforms-666?style=flat&labelColor=666)
 
 <!-- 📝 Systems | 🔒 Cybersecurity | 🔨 Apple Platforms -->
-
-<!-- <hr style="
-    background: linear-gradient(30deg, #E96443AA, #904E95AA);
-    border-radius: 20px;
-    max-width: 465px;
-    margin: 1.5em 0;
-    height: 3px;
-    width: 100%;
-"> -->
 
 <br>
 
