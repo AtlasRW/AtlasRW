@@ -1,40 +1,4 @@
 <style>
-.intro-container {
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    min-width: 200px;
-    max-width: 465px;
-    display: flex;
-    /* padding: 0.5em 0 0 0; */
-    gap: 1.5em;
-}
-.title-container {
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    display: flex;
-}
-.img-container {
-    justify-content: center;
-    flex-wrap: wrap;
-    display: flex;
-    width: 100%;
-    gap: 0.2em;
-}
-.title {
-    letter-spacing: 0.2em;
-    text-align: center;
-    font-weight: 600;
-    font-size: 2em;
-}
-.subtitle {
-    letter-spacing: 0.58em;
-    text-align: center;
-    font-weight: 300;
-    font-size: 0.9em;
-}
 .separator {
     background: linear-gradient(30deg, #E96443AA, #904E95AA);
     border-radius: 20px;
@@ -44,16 +8,47 @@
     width: 100%;
 }
 </style>
-<div class="intro-container">
-    <div class="title-container">
-        <div class="title">
+<div style="
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+    max-width: 465px;
+    display: flex;
+    /* padding: 0.5em 0 0 0; */
+    gap: 1.5em;
+">
+    <div style="
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        display: flex;
+    ">
+        <div style="
+            letter-spacing: 0.2em;
+            text-align: center;
+            font-weight: 600;
+            font-size: 2em;
+        ">
             RAPHAËL CIMA
         </div>
-        <div class="subtitle">
+        <div style="
+            letter-spacing: 0.58em;
+            text-align: center;
+            font-weight: 300;
+            font-size: 0.9em;
+        ">
             SOFTWARE ARCHITECT
         </div>
     </div>
-    <div class="img-container">
+    <div style="
+        justify-content: center;
+        flex-wrap: wrap;
+        display: flex;
+        width: 100%;
+        gap: 0.2em;
+    ">
         <a               
             href="https://github.com/AtlasRW"
             target="_blank"
@@ -93,11 +88,25 @@
     </div>
 </div>
 
-<div class="separator"></div>
+<hr style="
+    background: linear-gradient(30deg, #E96443AA, #904E95AA);
+    border-radius: 20px;
+    max-width: 465px;
+    margin: 1.5em 0;
+    height: 3px;
+    width: 100%;
+">
 
 Passionate about Arts & Technologies.
 
-<!-- <div class="separator"></div> -->
+<!-- <hr style="
+    background: linear-gradient(30deg, #E96443AA, #904E95AA);
+    border-radius: 20px;
+    max-width: 465px;
+    margin: 1.5em 0;
+    height: 3px;
+    width: 100%;
+"> -->
 
 Currently working on :
 
@@ -107,8 +116,6 @@ Currently working on :
 
 <!-- 🌍 Web | ☁️ Cloud | 🔗 Blockchain -->
 
-<!-- <div class="separator"></div> -->
-
 Also actively interested by :
 
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9D-Systems-666?style=flat&labelColor=666)
@@ -117,7 +124,14 @@ Also actively interested by :
 
 <!-- 📝 Systems | 🔒 Cybersecurity | 🔨 Apple Platforms -->
 
-<!-- <div class="separator"></div> -->
+<!-- <hr style="
+    background: linear-gradient(30deg, #E96443AA, #904E95AA);
+    border-radius: 20px;
+    max-width: 465px;
+    margin: 1.5em 0;
+    height: 3px;
+    width: 100%;
+"> -->
 
 <br>
 
