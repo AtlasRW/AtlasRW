@@ -1,13 +1,3 @@
-<style>
-.separator {
-    background: linear-gradient(30deg, #E96443AA, #904E95AA);
-    border-radius: 20px;
-    max-width: 465px;
-    margin: 1.5em 0;
-    height: 3px;
-    width: 100%;
-}
-</style>
 <div style="
     justify-content: center;
     flex-direction: column;
@@ -110,17 +100,17 @@ Passionate about Arts & Technologies.
 
 Currently working on :
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%8C%8D-Web-666?style=flat&labelColor=666)
-![Static Badge](https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud-666?style=flat&labelColor=666)
-![Static Badge](https://img.shields.io/badge/%F0%9F%94%97-Blockchain-666?style=flat&labelColor=666)
+![Web](https://img.shields.io/badge/%F0%9F%8C%8D-Web-666?style=flat&labelColor=666)
+![Cloud](https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud-666?style=flat&labelColor=666)
+![Blockchain](https://img.shields.io/badge/%F0%9F%94%97-Blockchain-666?style=flat&labelColor=666)
 
 <!-- 🌍 Web | ☁️ Cloud | 🔗 Blockchain -->
 
 Also actively interested by :
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9D-Systems-666?style=flat&labelColor=666)
-![Static Badge](https://img.shields.io/badge/%F0%9F%94%92-Cybersecurity-666?style=flat&labelColor=666)
-![Static Badge](https://img.shields.io/badge/%F0%9F%94%A8-Apple%20Platforms-666?style=flat&labelColor=666)
+![Systems](https://img.shields.io/badge/%F0%9F%93%9D-Systems-666?style=flat&labelColor=666)
+![Cybersecurity](https://img.shields.io/badge/%F0%9F%94%92-Cybersecurity-666?style=flat&labelColor=666)
+![Apple Platforms](https://img.shields.io/badge/%F0%9F%94%A8-Apple%20Platforms-666?style=flat&labelColor=666)
 
 <!-- 📝 Systems | 🔒 Cybersecurity | 🔨 Apple Platforms -->
 
