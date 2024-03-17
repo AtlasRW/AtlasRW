@@ -1,11 +1,16 @@
+<!-- <br> -->
+![](./separator.svg)
+
 ![RAPHAËL CIMA, SOFTWARE ARCHITECT](./title.svg)
+
+<br>
+
+![](./separator.svg)
 
 [![GitHub Profile Badge](https://img.shields.io/badge/AtlasRW-%23333333AA?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/AtlasRW)
 [![Instagram Profile Badge](https://img.shields.io/badge/rw__atlas-%23F56040AA?style=flat&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/rw_atlas)
 [![Twitter Profile Badge](https://img.shields.io/badge/@rw__atlas-%231DA1F2AA?style=flat&logo=twitter&logoColor=FFFFFF)](https://twitter.com/rw_atlas)
 [![LinkedIn Profile Badge](https://img.shields.io/badge/atlasrw-%230077B5AA?style=flat&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/atlasrw)
-
-![](./separator.svg)
 
 <!-- <div style="
     justify-content: center;
