@@ -1,83 +1,31 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100" height="100">
+<svg width="465" height="90" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="465" height="90">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <div style="
                 justify-content: center;
                 flex-direction: column;
-                align-items: center;
-                min-width: 200px;
-                max-width: 465px;
+                align-items: left;
+                margin: 2em 0 0 0;
                 display: flex;
-                /* padding: 0.5em 0 0 0; */
-                gap: 1.5em;
+                width: 100%;
             ">
                 <div style="
-                    justify-content: center;
-                    flex-direction: column;
-                    align-items: center;
-                    width: 100%;
-                    display: flex;
+                    font-family: Helvetica, Arial, sans-serif;
+                    letter-spacing: 0.2em;
+                    font-weight: 600;
+                    font-size: 2em;
+                    color: #FFF;
                 ">
-                    <div style="
-                        letter-spacing: 0.2em;
-                        text-align: center;
-                        font-weight: 600;
-                        font-size: 2em;
-                    ">
-                        RAPHAËL CIMA
-                    </div>
-                    <div style="
-                        letter-spacing: 0.58em;
-                        text-align: center;
-                        font-weight: 300;
-                        font-size: 0.9em;
-                    ">
-                        SOFTWARE ARCHITECT
-                    </div>
+                    RAPHAËL CIMA
                 </div>
                 <div style="
-                    justify-content: center;
-                    flex-wrap: wrap;
-                    display: flex;
-                    width: 100%;
-                    gap: 0.2em;
+                    font-family: Helvetica, Arial, sans-serif;
+                    letter-spacing: 0.6em;
+                    font-weight: 300;
+                    font-size: 0.92em;
+                    color: #FFF;
                 ">
-                    <a               
-                        href="https://github.com/AtlasRW"
-                        target="_blank"
-                    >
-                        <img
-                            src="https://img.shields.io/badge/AtlasRW-%23333333AA?style=flat&logo=github&logoColor=FFFFFF"
-                            alt="GitHub Profile Badge"
-                        >
-                    </a>
-                    <a               
-                        href="https://www.instagram.com/rw_atlas"
-                        target="_blank"
-                    >
-                        <img
-                            src="https://img.shields.io/badge/rw__atlas-%23F56040AA?style=flat&logo=instagram&logoColor=FFFFFF"
-                            alt="Instagram Profile Badge"
-                        >
-                    </a>
-                    <a               
-                        href="https://twitter.com/rw_atlas"
-                        target="_blank"
-                    >
-                        <img
-                            src="https://img.shields.io/badge/@rw__atlas-%231DA1F2AA?style=flat&logo=twitter&logoColor=FFFFFF"
-                            alt="Twitter Profile Badge"
-                        >
-                    </a>
-                    <a               
-                        href="https://www.linkedin.com/in/atlasrw"
-                        target="_blank"
-                    >
-                        <img
-                            src="https://img.shields.io/badge/atlasrw-%230077B5AA?style=flat&logo=linkedin&logoColor=FFFFFF"
-                            alt="LinkedIn Profile Badge"
-                        >
-                    </a>
+                    SOFTWARE ARCHITECT
                 </div>
             </div>
         </div>
