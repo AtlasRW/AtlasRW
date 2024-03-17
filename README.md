@@ -1,9 +1,8 @@
-<!-- <br> -->
 ![](./separator.svg)
 
-![RAPHAËL CIMA, SOFTWARE ARCHITECT](./title.svg)
-
 <br>
+
+![RAPHAËL CIMA, SOFTWARE ARCHITECT](./title.svg)
 
 ![](./separator.svg)
 
