@@ -1,4 +1,8 @@
-<div style="
+![Title](./name.svg)
+
+![Separator](./separator.svg)
+
+<!-- <div style="
     justify-content: center;
     flex-direction: column;
     align-items: center;
@@ -76,16 +80,7 @@
             >
         </a>
     </div>
-</div>
-
-<hr style="
-    background: linear-gradient(30deg, #E96443AA, #904E95AA);
-    border-radius: 20px;
-    max-width: 465px;
-    margin: 1.5em 0;
-    height: 3px;
-    width: 100%;
-">
+</div> -->
 
 Passionate about Arts & Technologies.
 
