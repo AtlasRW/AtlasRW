@@ -30,7 +30,9 @@ Also actively interested by :
 <br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atlasrw&theme=dark&hide_border=true&mode=weekly&card_width=465&date_format=&date_format=M%5B%20Y%5D&background=30%2CE96443AA%2C904E95AA&dates=EBEBEBB2&currStreakLabel=FFFFFF&fire=EBEBEB49&ring=EBEBEB49)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=atlasrw&theme=dark&hide_border=true&show_icons=true&cache_seconds=86400&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&hide_title=true&bg_color=30,E96443AA,904E95AA&title_color=fff&text_color=fff&icon_color=fff)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=atlasrw&theme=dark&hide_border=true&show_icons=true&cache_seconds=86400&card_width=465&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&hide_title=true&bg_color=30,E96443AA,904E95AA&title_color=fff&text_color=fff&icon_color=fff)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasrw&theme=dark&hide_border=true&layout=compact&card_width=465&bg_color=30,E96443AA,904E95AA&title_color=fff&text_color=fff&icon_color=fff)
 
 <!--
